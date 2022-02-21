@@ -28,3 +28,10 @@ p{
 body {
     background-color: black;
 }
+
+.copy{
+    text-align: right;
+}
+.phone{
+    padding-top: 20px;
+}
